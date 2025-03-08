@@ -1,1 +1,1 @@
-### hello is hutomen clone for QtCreater.
+### hello is hutomen clone for Qt6.
